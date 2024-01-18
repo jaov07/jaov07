@@ -1,6 +1,7 @@
-- 👋 Oii! Me chamo João Victor
-- 🌱 Atualmente estou em um curso técnico integrado de TI no IFSP 
-- 📫 EU pretendo ser um Dev Front-end Sênior.
+- Oii! Me chamo João Victor 👋
+- 2° TII - IFSP 📚
+- 
+
 
 <!---
 jaov07/jaov07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
