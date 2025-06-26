@@ -1,5 +1,5 @@
 - Oii! Me chamo João Victor 👋
-- 2° TII - IFSP 📚
+- 3° TII - IFSP 📚
 
 
 <!---
