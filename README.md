@@ -10,8 +10,8 @@
 
 - 🌐 Desenvolvimento web e mobile com foco em boas práticas
 - 🔧 Conhecimento em **Java**, **Kotlin**, **HTML**, **CSS**, **JavaScript**
-- 🛠 Experiência com **Android Studio**, **APIs REST**, **Firebase**, **SQLite**
-- 🎬 Também trabalho com **edição de vídeos** (CapCut, After Effects e similares)
+- 🛠 Experiência com **Android Studio**, **APIs REST**, **Firebase**, **SQLite**,
+
 
 ---
 
@@ -38,7 +38,7 @@
 ## 📫 Contato
 
 - ✉️ Email: **joaovictor70678@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+- 💼 LinkedIn: [linkedin.com/in/seu-perfil]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jo%C3%A3o-victor-b2b2832ab/))
 
 ---
 
