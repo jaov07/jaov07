@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o João Victor
 
-🎓 Estudante de **ENGENHARIA DA COMPUTAÇÃO** n\ **UNIVERSIDADE FEDERAL DE SÃO CARLOS - UFSCAR**.  
+🎓 Estudante de **ENGENHARIA DA COMPUTAÇÃO** na **UNIVERSIDADE FEDERAL DE SÃO CARLOS - UFSCAR**.  
 💻 Apaixonado por tecnologia, programação e edição de vídeos.  
 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e evoluir profissionalmente.
 
