@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o João Victor
 
-🎓 Estudante do 3º ano do curso técnico em **Informática para Internet** no **IFSP - São Carlos**.  
+🎓 Estudante de **ENGENHARIA DA COMPUTAÇÃO** n\ **UNIVERSIDADE FEDERAL DE SÃO CARLOS - UFSCAR**.  
 💻 Apaixonado por tecnologia, programação e edição de vídeos.  
 🚀 Buscando oportunidades para aplicar meus conhecimentos em projetos reais e evoluir profissionalmente.
 
@@ -8,8 +8,8 @@
 
 ## 💡 Sobre mim
 
-- 🌐 Desenvolvimento web e mobile com foco em boas práticas
-- 🔧 Conhecimento em **Java**, **Kotlin**, **HTML**, **CSS**, **JavaScript**
+- 🌐 Desenvolvimento front-end, back-end e mobile com foco em boas práticas
+- 🔧 Conhecimento em **Java**, **Kotlin**, **HTML5 & CSS3**, **Node.Js**, **JavaScript**
 - 🛠 Experiência com **Android Studio**, **APIs REST**, **Firebase**, **SQLite**,
 
 
