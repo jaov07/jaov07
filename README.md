@@ -27,7 +27,7 @@ Tenho experiência com desenvolvimento web, mobile e back-end, adquirida em proj
 
 - [Jogo Click Or Bang](link): TCC feito no ensino técnico integrado, usando GML
 - [API de usuário](link): API de usuários feita em node.js com arquitetura MVC(Model-View-Controller)
-- [Nome do projeto](link): descrição de uma linha, com as tecnologias usadas
+- [Organizador de Arquivos](link): Organizador de arquivos de computador usando Python e conceitos de automação
 
 ## Estatísticas do GitHub
 
