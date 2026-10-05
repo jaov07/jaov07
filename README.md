@@ -25,8 +25,8 @@ Tenho experiência com desenvolvimento web, mobile e back-end, adquirida em proj
 
 ## Projetos em destaque
 
-- [Nome do projeto](link): descrição de uma linha, com as tecnologias usadas
-- [Nome do projeto](link): descrição de uma linha, com as tecnologias usadas
+- [Jogo Click Or Bang](link): TCC feito no ensino técnico integrado, usando GML
+- [API de usuário](link): API de usuários feita em node.js com arquitetura MVC(Model-View-Controller)
 - [Nome do projeto](link): descrição de uma linha, com as tecnologias usadas
 
 ## Estatísticas do GitHub
