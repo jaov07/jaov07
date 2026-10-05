@@ -25,9 +25,9 @@ Tenho experiência com desenvolvimento web, mobile e back-end, adquirida em proj
 
 ## Projetos em destaque
 
-- [Jogo Click Or Bang](link): TCC feito no ensino técnico integrado, usando GML
-- [API de usuário](link): API de usuários feita em node.js com arquitetura MVC(Model-View-Controller)
-- [Organizador de Arquivos](link): Organizador de arquivos de computador usando Python e conceitos de automação
+- [Jogo Click Or Bang]((https://github.com/jaov07/ClickOrBang)): TCC feito no ensino técnico integrado, usando GML
+- [API de usuário](https://github.com/jaov07/ApiUsuarios): API de usuários feita em node.js com arquitetura MVC(Model-View-Controller)
+- [Organizador de Arquivos]((https://github.com/jaov07/organizadorDeArquivos)): Organizador de arquivos de computador usando Python e conceitos de automação
 
 ## Estatísticas do GitHub
 
