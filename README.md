@@ -29,12 +29,6 @@ Tenho experiência com desenvolvimento web, mobile e back-end, adquirida em proj
 - [API de usuário](https://github.com/jaov07/ApiUsuarios): API de usuários feita em node.js com arquitetura MVC(Model-View-Controller)
 - [Organizador de Arquivos]((https://github.com/jaov07/organizadorDeArquivos)): Organizador de arquivos de computador usando Python e conceitos de automação
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaov07&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaov07&layout=compact&theme=tokyonight" width="48%"/>
-</p>
 
 ## Contato
 
