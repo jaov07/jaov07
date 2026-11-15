@@ -1,34 +1,56 @@
 # João Victor Pereira da Silva
 
-Estudante de Engenharia da Computação na Universidade Federal de São Carlos (UFSCar), com formação técnica em Informática para Internet pelo IFSP São Carlos.
+**Estudante de Engenharia da Computação na UFSCar · Desenvolvimento back-end · Em busca de estágio**
 
-Tenho experiência com desenvolvimento web, mobile e back-end, adquirida em projetos acadêmicos e pessoais. Busco uma oportunidade de estágio para aplicar o que já sei em projetos reais e continuar aprendendo na prática.
+Construo APIs que lidam com autenticação, regras de negócio e dados que não podem ficar inconsistentes. Meu projeto principal é o **Simple Bank**, um sistema bancário full stack com transações atômicas, autenticação JWT e documentação Swagger. Tenho formação técnica em Informática para Internet pelo IFSP São Carlos.
+
+<details>
+<summary>English summary</summary>
+
+Computer Engineering student at UFSCar (Brazil), focused on back-end development and looking for an internship. I build REST APIs with authentication, business rules and data integrity in mind. My main project, **Simple Bank**, is a full-stack banking application with JWT authentication, atomic financial transactions (commit/rollback), rate limiting and Swagger documentation. I also hold a technical diploma in Informatics for the Internet from IFSP São Carlos (integrated high school program).
+
+</details>
+
+## Projetos
+
+### [Simple Bank](https://github.com/jaov07/simple-bank-app)
+
+Aplicação bancária full stack: cadastro, login, consulta de saldo, depósito, saque e transferência entre usuários por e-mail.
+
+- **Transações atômicas:** operações que alteram mais de uma tabela (como o cadastro, que cria usuário e conta, e as movimentações financeiras) usam commit/rollback, então nada é gravado pela metade.
+- **Segurança:** autenticação com JWT, senhas com hash (bcrypt) e rate limiting. O usuário é sempre identificado pelo token, nunca por um id enviado pelo cliente.
+- **Arquitetura em camadas:** rotas, controllers (regras de negócio) e models (acesso ao banco) separados.
+- **API documentada com Swagger.**
+
+**Stack:** Node.js · Express · MySQL · JWT · Swagger · JavaScript
+
+<!-- Adicionar aqui quando tiver: link da demo no ar, extrato (se já estiver pronto) e a tecnologia do front -->
+
+### [ApiUsuarios](https://github.com/jaov07/ApiUsuarios)
+
+API REST de usuários com autenticação JWT, validação de dados (incluindo e-mail duplicado) e documentação Swagger, publicada no Render com MySQL no Railway.
+
+**Stack:** Node.js · Express · MySQL · JWT · bcrypt
+
+### [Organizador de Arquivos](https://github.com/jaov07/organizadorDeArquivos)
+
+Automação em Python para organizar arquivos do computador.
+
+**Stack:** Python
+
+### [Click Or Bang](https://github.com/jaov07/ClickOrBang)
+
+Jogo desenvolvido como TCC do ensino técnico integrado, em GameMaker Language (GML).
+
+**Stack:** GML
 
 ## Tecnologias
 
-**Linguagens:** Java, Kotlin, JavaScript, HTML5, CSS3
-**Back-end e dados:** Node.js, APIs REST, MySQL, SQLite, Firebase
-**Mobile:** Android Studio
-**Ferramentas:** Git, GitHub
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## Projetos em destaque
-
-- [Jogo Click Or Bang]((https://github.com/jaov07/ClickOrBang)): TCC feito no ensino técnico integrado, usando GML
-- [Simple Bank](https://github.com/jaov07/simple-bank-app): Aplicação bancária simples Full-Stack com transações financeiras atômicas (ACID), autenticação JWT, documentação Swagger e interface web responsiva.
-- [Organizador de Arquivos]((https://github.com/jaov07/organizadorDeArquivos)): Organizador de arquivos de computador usando Python e conceitos de automação
-
+- **Back-end:** Node.js, Express, APIs REST, autenticação JWT, bcrypt
+- **Banco de dados:** MySQL
+- **Web:** JavaScript, HTML5, CSS3
+- **Outras:** Python (automação), GML
+- **Ferramentas:** Git, GitHub, Swagger
 
 ## Contato
 
