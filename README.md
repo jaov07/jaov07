@@ -15,16 +15,16 @@ Computer Engineering student at UFSCar (Brazil), focused on back-end development
 
 ### [Simple Bank](https://github.com/jaov07/simple-bank-app)
 
-Aplicação bancária full stack: cadastro, login, consulta de saldo, depósito, saque e transferência entre usuários por e-mail.
+Aplicação bancária full stack: cadastro, login, consulta de saldo, depósito, saque, extrato de transações e transferência entre usuários por e-mail.
 
 - **Transações atômicas:** operações que alteram mais de uma tabela (como o cadastro, que cria usuário e conta, e as movimentações financeiras) usam commit/rollback, então nada é gravado pela metade.
 - **Segurança:** autenticação com JWT, senhas com hash (bcrypt) e rate limiting. O usuário é sempre identificado pelo token, nunca por um id enviado pelo cliente.
 - **Arquitetura em camadas:** rotas, controllers (regras de negócio) e models (acesso ao banco) separados.
 - **API documentada com Swagger.**
 
-**Stack:** Node.js · Express · MySQL · JWT · Swagger · JavaScript
+**Stack:** Node.js · Express · MySQL · JWT · Swagger · JavaScript · React.js
 
-<!-- Adicionar aqui quando tiver: link da demo no ar, extrato (se já estiver pronto) e a tecnologia do front -->
+<!-- Adicionar aqui quando tiver: link da demo no ar -->
 
 ### [ApiUsuarios](https://github.com/jaov07/ApiUsuarios)
 
